@@ -1,0 +1,335 @@
+
+/* registration---------------------------------------------------------------------------------------------------- */
+.highlight{
+  color:whitesmoke;
+ margin-bottom: 5px;
+}
+.formcard{
+  /* background-color: #435553; */
+  background-image:url('./assets/da4264a33bbcfcd56d3cb80e26430518.png') ;
+  padding-top: 15px;
+  padding-bottom:  15px;
+ margin-left: 37%;
+ margin-right:37%;
+ opacity: 90%;border-radius: 5%;
+
+  
+  
+}
+
+.filledButton {
+  background-color:#0004ff;  
+  color: white; 
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.regist {
+  position:  absolute;
+  background-image: url(C:\Users\91970\OneDrive\Desktop\blogsproj\photo-1556740714-a8395b3bf30f.avif);
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+ 
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.LogInlink{
+  color: rgb(255, 0, 0);
+  
+}
+.LogInlink:hover{
+  color: aqua;
+  
+}
+
+
+
+/* LogIn---------------------------------------------------------------------------------------------------- */
+.LogIn {
+  position:  absolute;
+  background-image: url('../src/assets/jonatan-pie-3l3RwQdHRHg-unsplash.jpg');
+  /* background-image: url('../assets/photo-1556740714-a8395b3bf30f.avif'); */
+  /* background-image: url(C:\Users\91970\OneDrive\Desktop\blogsproj\photo-1556740714-a8395b3bf30f.avifC:\https://www.google.com/url?sa=i&url=https%3A%2F%2Flovepik.com%2Fimages%2Fbackgrounds-registration-login.html&psig=AOvVaw2J_K3sohYOrzNgUhF5wlSQ&ust=1698914900006000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCh0qq1ooIDFQAAAAAdAAAAABAKUsers\91970\OneDrive\Desktop\blogsproj\photo-1556740714-a8395b3bf30f.avif); */
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  justify-content: center;
+}
+.main{
+  background-image: url('../src/assets/desktop-wallpaper-background-for-html-page-html-css.jpg');
+  padding-top: 15px;
+  padding-bottom:  15px;
+  margin-top: 7%;
+ margin-left: 37%;
+ margin-right:37%;
+ opacity: 90%;border-radius: 5%;
+ text-decoration: none;
+}
+.loginbtn {
+  background-color:#bcf903;  
+  color:brown; 
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+
+}
+.loginbtn:hover {
+  transition: background-color 0.3s ease;
+  background-color: #fe3700b0;
+}
+.logregister{
+  display: inline-block;
+  padding: 12px 40px;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  color: #fff;
+  background-color: #34dbd0;  
+  border: 2px solid #3498db;  
+  border-radius: 6px;  
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.logregister:hover {
+  background-color: #00c3fe55;
+  transition: background-color 0.3s ease;
+
+}
+
+
+/* ProfilePage.......................................................................... */
+ body, h1, h2, p, ul {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+header {
+  background:grey;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
+
+header h1 {
+  margin: 0;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+main {
+  width: 80%;
+  margin: 20px auto;
+}
+
+.post {
+  margin-bottom: 40px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 20px;
+}
+
+.post-title {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.post-date {
+  color: #888;
+  font-style: italic;
+  margin-bottom: 10px;
+} 
+.post-content{
+  margin-left: 60px;
+}
+.background_color_profile{
+  background-color:rgba(128, 128, 128, 0.223); 
+   height: 80vh;
+}
+
+
+ footer {
+  text-align: center;
+  padding: 10px 0;
+  background: grey;
+  color: #fff;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+} 
+
+
+.title{
+   font-weight: bold;
+   font-size: xx-large;
+  
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.description{
+  font-size: larger;
+  font-style: italic;
+}
+.content{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.choose_file{
+  background-color: rgb(136, 127, 255);
+}
+.post_button{
+   background-color: cyan;
+  transition: background-color 0.3s ease;
+  border-radius: 2px;
+}
+
+.post_button:hover{
+ background-color: rgba(3, 28, 28, 0.434);
+  transition: background-color 0.3s ease;
+}
+
+
+
+
+
+.Home_page_name:hover{
+  color: rgb(47, 38, 38);
+ }
+ .Home_page_name_atvi{
+  color: rgb(47, 38, 38);
+ }
+ .About_page_name:hover{
+  color: rgb(47, 38, 38);
+ }
+ .About_page_name_atvi{
+  color: rgb(47, 38, 38);
+ }
+ .Contact_page_name:hover{
+  color: rgb(47, 38, 38);
+ }
+ .Contact_page_name_atvi{
+  color: rgb(47, 38, 38);
+ }
+.profile_page_name:hover{
+ color: rgb(47, 38, 38);
+}
+.profile_page_name_atvi{
+  color: rgb(47, 38, 38);
+
+}
+
+
+
+/* home......................................... */
+.background_color{
+ background-color:rgba(128, 128, 128, 0.223);
+ /* background-color:  linear-gradient(to right, #ff3366, #ffcc33, #33ccff); */
+ /* background-color: red; */
+  margin: 0;   
+  padding: 0; 
+
+  background-size: cover;  
+  background-position: center;  
+  background-repeat: no-repeat; 
+  font-family: 'Arial', sans-serif; 
+}
+.postcard{
+  
+   margin-left: 120px;
+   margin-right: 120px;
+   padding-top: 20px;
+  border-radius: 50px; 
+  
+
+}
+.img_card{
+    background-image: url(istockphoto-1313300720-612x612.jpg);
+    border-radius: 10px;
+    background-size: cover;
+    display: flex;
+    padding: 20px;
+    
+}
+.text_content{
+  color: rgb(7, 7, 7);
+ 
+
+}
+.img_content{
+padding-left: 20px;
+}
+
+.img_size{
+  width: 250px;
+  height: 175px;
+}
+
+.time_size{
+  font-size:10px;
+  color: darkgray;
+}
+
+.logoutButton{
+  border-radius: 5px;
+  display: inline-block;
+      padding: 10px 20px;
+      font-size: 16px;
+      text-align: center;
+      text-decoration: none;
+      background-color: #808080;  
+      
+      border: 1px solid #808080; 
+      border-radius: 4px;  
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+      color: aqua;  
+}
+
+.logoutButton:hover {
+  background-color: #666666;  
+  
+ 
+    transition: background-color 0.3s ease;
+ 
+}
+
+/* contact........................ */
+
+.contact-section{
+  /* background-color: red; */
+  margin-left: 70px;
+  padding-top: 50px;
+}
+.background_color_contect{
+
+  background-color:rgba(128, 128, 128, 0.223);
+  background-size: cover;
+  height: 73vh;
+
+}

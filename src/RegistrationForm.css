@@ -1,0 +1,31 @@
+
+
+.filledButton {
+    background-color:#00ffea;  
+    color: white; 
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+.regist {
+    position:  absolute;
+    background-image: url(C:\Users\91970\OneDrive\Desktop\blogsproj\photo-1556740714-a8395b3bf30f.avif);
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+   
+    /* align-items: center; */
+    justify-content: center;
+    
+  }
+
+.signuplink{
+    color: orange;
+    
+}
+.signup:hover{
+    text-decoration-line: underline;
+}
